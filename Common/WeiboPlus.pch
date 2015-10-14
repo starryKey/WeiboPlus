@@ -1,0 +1,20 @@
+//
+//  WeiboPlus.pch
+//  WeiboPlus
+//
+//  Created by wol on 15/9/8.
+//  Copyright (c) 2015年 wol. All rights reserved.
+//
+
+#ifndef WeiboPlus_WeiboPlus_pch
+#define WeiboPlus_WeiboPlus_pch
+
+#import "Common.h"
+
+#import <UIKit/UIKit.h>
+#import "UIViewExt.h"
+// 隐藏导航栏的通知名
+#define kHiddenNavigationBar @"kHiddenNavigationBar"
+
+
+#endif
